@@ -1,0 +1,17 @@
+baseURL: ''
+languageCode: en-us
+title: Sadatuzzaman Saagoto
+theme: PaperMod
+
+
+menu:
+  main:
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+
+    - indentifer: website
+      name: My Website
+      url: https://mtahmid20.github.io
+      weight: 10
